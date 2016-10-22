@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tegud/river_styx-release-order-telegraph#readme",
   "dependencies": {
+    "logall": "0.0.3",
     "moment": "^2.15.1"
   }
 }
