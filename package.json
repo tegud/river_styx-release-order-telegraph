@@ -19,6 +19,6 @@
   "dependencies": {
     "logall": "0.0.3",
     "moment": "^2.15.1",
-    "rs-core": "^0.2.0"
+    "rs-core": "^0.3.0"
   }
 }
