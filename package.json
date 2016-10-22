@@ -1,0 +1,23 @@
+{
+  "name": "river_styx-release-order-telegraph",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tegud/river_styx-release-order-telegraph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tegud/river_styx-release-order-telegraph/issues"
+  },
+  "homepage": "https://github.com/tegud/river_styx-release-order-telegraph#readme",
+  "dependencies": {
+    "moment": "^2.15.1",
+    "rs-core": "file:../rs-core"
+  }
+}
