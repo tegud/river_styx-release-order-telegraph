@@ -19,6 +19,8 @@
   "dependencies": {
     "logall": "0.0.3",
     "moment": "^2.15.1",
-    "rs-core": "^0.3.0"
+    "rs-amqp-listener": "^0.1.0",
+    "rs-core": "^2.0.0",
+    "rs-http-server": "^0.1.0"
   }
 }
